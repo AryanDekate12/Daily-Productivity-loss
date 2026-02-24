@@ -1,15 +1,19 @@
-# Daily-Productivity-loss
-A Machine Learning-based web application built with Streamlit that predicts daily productivity loss in hours based on various lifestyle and work-related factors. The app helps users understand efficiency patterns and improve time management
-# 📊 Daily Productivity Loss Predictor
+<h1 align="center">📊 Daily Productivity Loss Predictor</h1>
 
-> A Machine Learning powered web application that predicts daily productivity loss (in hours) based on lifestyle and work habits.
+<p align="center">
+A Machine Learning powered web application that predicts daily productivity loss (in hours) based on lifestyle and work habits.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red.svg)
-![Machine Learning](https://img.shields.io/badge/Model-Regression-green.svg)
-![Status](https://img.shields.io/badge/Status-Active-success.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red?style=for-the-badge&logo=streamlit">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Regression-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
 
-## 📌 Project Overview
+---
+
+## 🚀 Project Overview
 
 Daily Productivity Loss Predictor is an interactive Machine Learning web application built using **Python and Streamlit**.  
 
@@ -76,3 +80,25 @@ Daily-Productivity-loss/
     ├── input_ui.png
     └── output_prediction.png
 ```
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project with proper attribution.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to improve this project:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a Pull Request
+
+Let’s build better productivity tools together 🚀
