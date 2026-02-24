@@ -63,3 +63,16 @@ This tool helps users understand inefficiencies and improve time management.
 ---
 
 ## 📂 Project Structure
+
+```
+Daily-Productivity-loss/
+│
+├── app.py
+├── ridge_productivity_model.pkl
+├── requirements.txt
+├── daily_productive_loss.ipynb
+├── README.md
+└── assets/
+    ├── input_ui.png
+    └── output_prediction.png
+```
